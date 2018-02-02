@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.6</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>13</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>revision</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/convex/</ImageTemplate>
+            <ImageTemplateName>Convex</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/DENIS MAINA/Desktop/denmaich bootstrap/revision.html</PublishFileName>
+            <PublishIndex>revision.html</PublishIndex>
+            <PublishPath>C:/Users/DENIS MAINA/Desktop/denmaich bootstrap</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>page</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#54acd2</TemplateColor>
+            <TemplateFont>Gurajada</TemplateFont>
+            <TemplateName>convex</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/audi_r8_spyder_v10_plus_2018-wallpaper-1366x768.jpg</url>
+                <title>audi_r8_spyder_v10_plus_2018-wallpaper-1366x768</title>
+                <filesize>283779</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/bugatti_chiron___2017-wallpaper-1366x768.jpg</url>
+                <title>bugatti_chiron___2017-wallpaper-1366x768</title>
+                <filesize>219053</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/bugatti_chiron_2017-wallpaper-1366x768.jpg</url>
+                <title>bugatti_chiron_2017-wallpaper-1366x768</title>
+                <filesize>248417</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/dont_judge_me-wallpaper-1366x768.jpg</url>
+                <title>dont_judge_me-wallpaper-1366x768</title>
+                <filesize>115353</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/i_belive_i_can_fly-wallpaper-1366x768.jpg</url>
+                <title>i_belive_i_can_fly-wallpaper-1366x768</title>
+                <filesize>289824</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/john_wall__basketball-wallpaper-1366x768 (1).jpg</url>
+                <title>john_wall__basketball-wallpaper-1366x768 (1)</title>
+                <filesize>74000</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/kung_fu_panda_3_2016-wallpaper-1366x768.jpg</url>
+                <title>kung_fu_panda_3_2016-wallpaper-1366x768</title>
+                <filesize>353220</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/DENIS MAINA/Downloads/pictures/nike_sneakers-wallpaper-1366x768.jpg</url>
+                <title>nike_sneakers-wallpaper-1366x768</title>
+                <filesize>315554</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
